@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a website that gets posts from Reddit and analyze its sentiments<br>🌱 I’m currently learning TypeScript
+🔭 I’m currently finishing university<br>
 
 
 ## 🌐 Socials:
